@@ -4,11 +4,22 @@
     "files":  [
                   {
                       "date":  "2026-10-05",
+                      "size":  20107691,
+                      "version":  "20261005_1145",
+                      "label":  "2026-10-05 11:45",
+                      "name":  "日程表 Win7 版",
+                      "latest":  true,
+                      "sha256":  "5C18859D98BB694809BAD750258092E2A65ECB6515B8D735EEBBB7318BDE7F42",
+                      "desc":  "Python 日程表桌面程序 Win7 兼容版（最新版），含版本检查 + 漂亮更新弹窗 + Excel 实时同步，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）",
+                      "file":  "日程表_Win7_20261005_1145.zip"
+                  },
+                  {
+                      "date":  "2026-10-05",
                       "size":  20107056,
                       "version":  "20261005_1141",
                       "label":  "2026-10-05 11:41",
                       "name":  "日程表 Win7 版",
-                      "latest":  true,
+                      "latest":  false,
                       "sha256":  "A032D1CD3430000EC5323EE8A86206D8DD019406E9CB039E9CC43E94D5E3C6DE",
                       "desc":  "Python 日程表桌面程序 Win7 兼容版（最新版），含版本检查 + 漂亮更新弹窗 + Excel 实时同步，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）",
                       "file":  "日程表_Win7_20261005_1141.zip"
