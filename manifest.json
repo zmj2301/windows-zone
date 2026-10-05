@@ -1,39 +1,50 @@
 {
-  "zone": "Windows 专区",
-  "updated": "2026-10-05",
-  "files": [
-    {
-      "name": "日程表 Win7 版",
-      "label": "2026-10-04 14:43",
-      "version": "20261004_1443",
-      "date": "2026-10-04",
-      "file": "日程表_Win7_20261004_1443.zip",
-      "size": 74194535,
-      "sha256": "5C06CCBF784D70F469A41C8E4471FCEDEC5D4631340235ED540788A3AA72B939",
-      "latest": false,
-      "desc": "Python 日程表桌面程序 Win7 兼容版，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）"
-    },
-    {
-      "name": "日程表 Win7 版",
-      "label": "2026-10-04 21:59",
-      "version": "20261004_2159",
-      "date": "2026-10-04",
-      "file": "日程表_Win7_20261004_2159.zip",
-      "size": 74194535,
-      "sha256": "7CA0855343AD8ED0C1138275E9E1829B3C6852022C53CC99AF86E1D01FC82AAE",
-      "latest": false,
-      "desc": "Python 日程表桌面程序 Win7 兼容版，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）"
-    },
-    {
-      "name": "日程表 Win7 版",
-      "label": "2026-10-05 09:19",
-      "version": "20261005_0919",
-      "date": "2026-10-05",
-      "file": "日程表_Win7_20261005_0919.zip",
-      "size": 89310501,
-      "sha256": "79F0B45DC61C7C2B72F541B5CBB5604918B06D145BD6A253854A88D9D85B8A1D",
-      "latest": true,
-      "desc": "Python 日程表桌面程序 Win7 兼容版（最新版），解压后运行 日程表_Win7.exe（含使用说明与诊断工具）"
-    }
-  ]
+    "zone":  "Windows 专区",
+    "updated":  "2026-10-05",
+    "files":  [
+                  {
+                      "date":  "2026-10-05",
+                      "size":  20107056,
+                      "version":  "20261005_1141",
+                      "label":  "2026-10-05 11:41",
+                      "name":  "日程表 Win7 版",
+                      "latest":  true,
+                      "sha256":  "A032D1CD3430000EC5323EE8A86206D8DD019406E9CB039E9CC43E94D5E3C6DE",
+                      "desc":  "Python 日程表桌面程序 Win7 兼容版（最新版），含版本检查 + 漂亮更新弹窗 + Excel 实时同步，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）",
+                      "file":  "日程表_Win7_20261005_1141.zip"
+                  },
+                  {
+                      "name":  "日程表 Win7 版",
+                      "label":  "2026-10-04 14:43",
+                      "version":  "20261004_1443",
+                      "date":  "2026-10-04",
+                      "file":  "日程表_Win7_20261004_1443.zip",
+                      "size":  74194535,
+                      "sha256":  "5C06CCBF784D70F469A41C8E4471FCEDEC5D4631340235ED540788A3AA72B939",
+                      "latest":  false,
+                      "desc":  "Python 日程表桌面程序 Win7 兼容版，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）"
+                  },
+                  {
+                      "name":  "日程表 Win7 版",
+                      "label":  "2026-10-04 21:59",
+                      "version":  "20261004_2159",
+                      "date":  "2026-10-04",
+                      "file":  "日程表_Win7_20261004_2159.zip",
+                      "size":  74194535,
+                      "sha256":  "7CA0855343AD8ED0C1138275E9E1829B3C6852022C53CC99AF86E1D01FC82AAE",
+                      "latest":  false,
+                      "desc":  "Python 日程表桌面程序 Win7 兼容版，解压后运行 日程表_Win7.exe（含使用说明与诊断工具）"
+                  },
+                  {
+                      "name":  "日程表 Win7 版",
+                      "label":  "2026-10-05 09:19",
+                      "version":  "20261005_0919",
+                      "date":  "2026-10-05",
+                      "file":  "日程表_Win7_20261005_0919.zip",
+                      "size":  89310501,
+                      "sha256":  "79F0B45DC61C7C2B72F541B5CBB5604918B06D145BD6A253854A88D9D85B8A1D",
+                      "latest":  false,
+                      "desc":  "Python 日程表桌面程序 Win7 兼容版（最新版），解压后运行 日程表_Win7.exe（含使用说明与诊断工具）"
+                  }
+              ]
 }
