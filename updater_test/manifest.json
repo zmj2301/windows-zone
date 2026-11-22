@@ -1,0 +1,14 @@
+{
+    "zone":  "updater-test",
+    "updated":  "2026-11-22",
+    "files":  [
+                  {
+                      "version":  "1.1",
+                      "file":  "updater_test_v1.1.zip",
+                      "size":  7781619,
+                      "sha256":  "832E63D44799609062B4E6E58095CF313921DC4C2B80E589742CEBA75BB09985",
+                      "latest":  true,
+                      "desc":  "自动更新测试器 v1.1（仅用于验证更新链路）"
+                  }
+              ]
+}
