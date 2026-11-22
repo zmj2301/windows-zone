@@ -5,8 +5,8 @@
                   {
                       "version":  "1.1",
                       "file":  "updater_test_v1.1.zip",
-                      "size":  7781806,
-                      "sha256":  "145F821798DC29DDF7A0D2EBD158A083E3E09145F1CD1A0E86459CBCC8943491",
+                      "size":  7781797,
+                      "sha256":  "D19748D1634E33AE8F7F057C0186CFFE0CBC42FB61A1C6CB33B9E5B71AD274FF",
                       "latest":  true,
                       "desc":  "自动更新测试器 v1.1（仅用于验证更新链路）"
                   }
