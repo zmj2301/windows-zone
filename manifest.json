@@ -2,27 +2,27 @@
   "zone": "Windows 专区",
   "updated": "2026-11-28",
   "name": "日程表 Win7 版",
-  "label": "2026-11-28 13:00",
-  "version": "20261128_1310",
+  "label": "2026-11-28 15:45",
+  "version": "20261128_1545",
   "date": "2026-11-28",
-  "file": "日程表_Win7_20261128_1310.zip",
-  "size": 74749823,
-  "sha256": "DD3616DE494BC0CD20C72563B5E7B85572586ED8D3A7A1F2F9BB84D29EBB8A9B",
+  "file": "日程表_Win7_20261128_1545.zip",
+  "size": 74750544,
+  "sha256": "7D0DD45FBDB05DC725057AD2A481C39EDA6CBB9AC4BD8D16B53EC49241A2C8E3",
   "latest": true,
-  "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：本版修复更新下载成功、最后一步却回滚、版本没变的问题——新版本启动时先写心跳再做单实例检查，更新场景下最多等旧实例 15 秒；若确有旧窗口占用会提示新版本已替换、请退出后重开，不再静默回滚。其余同 1215：日历标题跟随月份、单实例/单日历、Authenticode 自签名 + Ed25519 清单签名、单表存档、30 号修复、跨月/跨年、Enter 换行、自启跟随。",
-  "signature": "c4M3DgEY0bzCAluNRKs0hMKBqkWIwv0MrQurY6wQGh2rgcGGvEHkjOcKTWfCpazyItDHT4ZSaMUoO1wTFCXzAQ==",
+  "desc": "Python 日程表 Win7 兼容版（自用）：彻底修复更新最后一步回滚。根因是 PyInstaller onefile 把 _PYI_ARCHIVE_FILE 等环境变量传给更新脚本，新 exe 与旧 exe 同路径导致新 exe 跳过解压、启动即退出；本版启动更新脚本前清理这些变量。注意：从 1310 及更早版本升级需手动替换一次 exe（退出程序后用包内 exe 覆盖旧文件），之后程序内更新即可正常。其余不变：单实例/单日历、日历标题跟随月份、自签名+Ed25519 清单签名、单表存档。",
+  "signature": "6/MfiUJ9yjPaxTn+TribwzSBhrSg9CCatTmgmWv8IX+GqYjArUe/WvpULDMn621jlkB63PdH3zsQiQ7B9fcvBA==",
   "files": [
     {
       "name": "日程表 Win7 版",
-      "label": "2026-11-28 13:00",
-      "version": "20261128_1310",
+      "label": "2026-11-28 15:45",
+      "version": "20261128_1545",
       "date": "2026-11-28",
-      "file": "日程表_Win7_20261128_1310.zip",
-      "size": 74749823,
-      "sha256": "DD3616DE494BC0CD20C72563B5E7B85572586ED8D3A7A1F2F9BB84D29EBB8A9B",
+      "file": "日程表_Win7_20261128_1545.zip",
+      "size": 74750544,
+      "sha256": "7D0DD45FBDB05DC725057AD2A481C39EDA6CBB9AC4BD8D16B53EC49241A2C8E3",
       "latest": true,
-      "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：本版修复更新下载成功、最后一步却回滚、版本没变的问题——新版本启动时先写心跳再做单实例检查，更新场景下最多等旧实例 15 秒；若确有旧窗口占用会提示新版本已替换、请退出后重开，不再静默回滚。其余同 1215：日历标题跟随月份、单实例/单日历、Authenticode 自签名 + Ed25519 清单签名、单表存档、30 号修复、跨月/跨年、Enter 换行、自启跟随。",
-      "signature": "c4M3DgEY0bzCAluNRKs0hMKBqkWIwv0MrQurY6wQGh2rgcGGvEHkjOcKTWfCpazyItDHT4ZSaMUoO1wTFCXzAQ=="
+      "desc": "Python 日程表 Win7 兼容版（自用）：彻底修复更新最后一步回滚。根因是 PyInstaller onefile 把 _PYI_ARCHIVE_FILE 等环境变量传给更新脚本，新 exe 与旧 exe 同路径导致新 exe 跳过解压、启动即退出；本版启动更新脚本前清理这些变量。注意：从 1310 及更早版本升级需手动替换一次 exe（退出程序后用包内 exe 覆盖旧文件），之后程序内更新即可正常。其余不变：单实例/单日历、日历标题跟随月份、自签名+Ed25519 清单签名、单表存档。",
+      "signature": "6/MfiUJ9yjPaxTn+TribwzSBhrSg9CCatTmgmWv8IX+GqYjArUe/WvpULDMn621jlkB63PdH3zsQiQ7B9fcvBA=="
     }
   ]
 }
