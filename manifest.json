@@ -4,13 +4,25 @@
   "files": [
     {
       "name": "日程表 Win7 版",
+      "label": "2026-11-28 10:40",
+      "version": "20261128_0816",
+      "date": "2026-11-28",
+      "file": "日程表_Win7_20261128_0816.zip",
+      "size": 74746824,
+      "sha256": "AD68F1E37E5C0DFCD40324ECD9F883BF93D31434E45F772A02B0610D9FEFA39D",
+      "latest": true,
+      "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：① 主程序与诊断工具已做 Windows Authenticode 自签名（包内附 codesign_selfsigned.cer 和 install_codesign_root.ps1，本机运行一次即可显示发布者；公开用户仍可能显示未知发布者）。② 保留 0815 的更新链安全加固：Ed25519 清单签名、sha256 必填、更新直连、200MB 上限。③ 单表存档：所有记录保留在主表（time/things/status/completed_at），完成后桌面不显示但表格行保留，彻底删除才移除。④ 修复 11.30 被读成 11.3。⑤ 新建事件默认月份跟随日历；12 月底 1 月事件按明年处理。⑥ Enter 换行、Ctrl+Enter 保存。⑦ 开机自启自动跟随当前 exe。",
+      "signature": "78VMRLdVAR4O9TGAIL937jirjdd9Hsn1hzhmeRpNTE3H8SvojRbCyNs3gVIo0QjhxKArEq5jBvEAyTOFBPYODw=="
+    },
+    {
+      "name": "日程表 Win7 版",
       "label": "2026-11-28 08:15",
       "version": "20261128_0815",
       "date": "2026-11-28",
       "file": "日程表_Win7_20261128_0815.zip",
       "size": 74731919,
       "sha256": "46620391734EC6A9E0E31D468701973233980EB8B50B1F7F4AB4C9E811AB45DE",
-      "latest": true,
+      "latest": false,
       "desc": "Python 日程表桌面程序 Win7 兼容版（最新版）：① 更新链安全加固——更新清单必须带 Ed25519 离线签名，sha256 必填，缺失或校验失败直接拒绝更新；检查更新/下载强制直连，不再信任系统代理；更新包限制 200MB。② 表格改为单表存档：所有记录保留在主表（time/things/status/completed_at），标记完成后桌面不显示但表格行仍保留，只有「彻底删除」才移除。③ 修复 11.30 被读成 11.3 的日期错位。④ 新建事件默认月份跟随日历当前月份，12 月底的 1 月事件按明年处理。⑤ Enter 换行、Ctrl+Enter 保存。⑥ 开机自启自动跟随当前 exe。解压后运行 日程表_Win7.exe（含使用说明与诊断工具）。",
       "signature": "44X040QL3cmGDkt+CWjMH6e8svZsyxrLPWmudGoObXabRmiFtaM4UG3py4QDBLC7k3s0p7nihpARBnyHnkEgBA=="
     },
