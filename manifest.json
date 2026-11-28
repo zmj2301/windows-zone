@@ -2,27 +2,27 @@
   "zone": "Windows 专区",
   "updated": "2026-11-28",
   "name": "日程表 Win7 版",
-  "label": "2026-11-28 12:00",
-  "version": "20261128_1215",
+  "label": "2026-11-28 13:00",
+  "version": "20261128_1310",
   "date": "2026-11-28",
-  "file": "日程表_Win7_20261128_1215.zip",
-  "size": 74748472,
-  "sha256": "D2D1FE5511C2498F1D1C48C068D218B9475113852F0C4FC6D0EECCEEA2911344",
+  "file": "日程表_Win7_20261128_1310.zip",
+  "size": 74749823,
+  "sha256": "DD3616DE494BC0CD20C72563B5E7B85572586ED8D3A7A1F2F9BB84D29EBB8A9B",
   "latest": true,
-  "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：① 日历标题跟随月份下拉框：切到 12 月显示“2026 年 12 月”，星期显示该月 1 号的星期，不再停留在打开程序时的月份。② 单实例：同一登录会话只允许一个进程，重复启动提示退出；同一程序只允许一个日历窗口，重复打开只前置已有窗口。③ 保留 Authenticode 自签名（包内附根证书安装脚本）、Ed25519 清单签名、sha256 必填、更新直连、200MB 上限。④ 单表存档、30 号修复、跨月/跨年、Enter 换行、自启跟随。",
-  "signature": "9jUhpveC+u5IGtb0CI21nj9gdTzFllfZGYBmsenFO5RFibJ1RR25MscJiS21TZTyI8n+23ls/NNgz2K/z61oAg==",
+  "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：本版修复更新下载成功、最后一步却回滚、版本没变的问题——新版本启动时先写心跳再做单实例检查，更新场景下最多等旧实例 15 秒；若确有旧窗口占用会提示新版本已替换、请退出后重开，不再静默回滚。其余同 1215：日历标题跟随月份、单实例/单日历、Authenticode 自签名 + Ed25519 清单签名、单表存档、30 号修复、跨月/跨年、Enter 换行、自启跟随。",
+  "signature": "c4M3DgEY0bzCAluNRKs0hMKBqkWIwv0MrQurY6wQGh2rgcGGvEHkjOcKTWfCpazyItDHT4ZSaMUoO1wTFCXzAQ==",
   "files": [
     {
       "name": "日程表 Win7 版",
-      "label": "2026-11-28 12:00",
-      "version": "20261128_1215",
+      "label": "2026-11-28 13:00",
+      "version": "20261128_1310",
       "date": "2026-11-28",
-      "file": "日程表_Win7_20261128_1215.zip",
-      "size": 74748472,
-      "sha256": "D2D1FE5511C2498F1D1C48C068D218B9475113852F0C4FC6D0EECCEEA2911344",
+      "file": "日程表_Win7_20261128_1310.zip",
+      "size": 74749823,
+      "sha256": "DD3616DE494BC0CD20C72563B5E7B85572586ED8D3A7A1F2F9BB84D29EBB8A9B",
       "latest": true,
-      "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：① 日历标题跟随月份下拉框：切到 12 月显示“2026 年 12 月”，星期显示该月 1 号的星期，不再停留在打开程序时的月份。② 单实例：同一登录会话只允许一个进程，重复启动提示退出；同一程序只允许一个日历窗口，重复打开只前置已有窗口。③ 保留 Authenticode 自签名（包内附根证书安装脚本）、Ed25519 清单签名、sha256 必填、更新直连、200MB 上限。④ 单表存档、30 号修复、跨月/跨年、Enter 换行、自启跟随。",
-      "signature": "9jUhpveC+u5IGtb0CI21nj9gdTzFllfZGYBmsenFO5RFibJ1RR25MscJiS21TZTyI8n+23ls/NNgz2K/z61oAg=="
+      "desc": "Python 日程表桌面程序 Win7 兼容版（自用）：本版修复更新下载成功、最后一步却回滚、版本没变的问题——新版本启动时先写心跳再做单实例检查，更新场景下最多等旧实例 15 秒；若确有旧窗口占用会提示新版本已替换、请退出后重开，不再静默回滚。其余同 1215：日历标题跟随月份、单实例/单日历、Authenticode 自签名 + Ed25519 清单签名、单表存档、30 号修复、跨月/跨年、Enter 换行、自启跟随。",
+      "signature": "c4M3DgEY0bzCAluNRKs0hMKBqkWIwv0MrQurY6wQGh2rgcGGvEHkjOcKTWfCpazyItDHT4ZSaMUoO1wTFCXzAQ=="
     }
   ]
 }
